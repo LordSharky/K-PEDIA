@@ -1,0 +1,21 @@
+img {border-radius:20%;
+     margin:10px;
+	 border: 5px solid #F0B27A;
+	 }
+.flex-container {
+     display: flex;
+     justify-content: center;
+	 margin-top: 22px;
+     }
+.flex-container > div {
+     width: 100px;
+     margin: 10px;
+     text-align: center;
+     line-height: 75px;
+     font-size: 30px;
+     }
+figcaption{
+     text-align:center;
+	 color: #5E3114;
+	 letter-spacing: 3px;
+	 } 
